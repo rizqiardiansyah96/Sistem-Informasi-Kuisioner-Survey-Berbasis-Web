@@ -1,2 +1,5 @@
-# Sistem-Informasi-Kuisioner-Survey-Berbasis-Web
-Digunakan sebagai bahan penelitian mahasiswa untuk mendapatkan data secara akurat dalam jumlah besar.
+Grocery CRUD
+=============
+Grocery CRUD is a PHP and Codeigniter Framework library that creates a full functional CRUD system without the need to customise JavaScript or CSS.
+
+For more information, visit http://www.grocerycrud.com
